@@ -11,6 +11,8 @@ public class KartuMain {
 
 		System.out.println("Kartu 3 : " + kartu3.otentikasi("745"));
 		System.out.println("Kartu 3 : " + kartu3.otentikasi("444"));
+		System.out.println("Kartu 3 : " + kartu3.otentikasi("455"));
+
 	}
 
 }
